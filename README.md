@@ -1,4 +1,4 @@
-![GoodHub Logo] (https://github.com/GoodHub/GoodHub/blob/master/GoodHub-ReadMe.jpg?raw=true)
+![GoodHub Logo](https://raw.githubusercontent.com/GoodHub/GoodHub/master/GoodHub-ReadMe.jpg)
 
 # GoodHub
 A community of programmers who work together to improve, learn, and stay motivated.
