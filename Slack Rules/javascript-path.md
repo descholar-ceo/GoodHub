@@ -57,11 +57,12 @@ thanks to the support of the group, to finish them with enthusiasm.
     - [ ] Use Gulp for basic build tasks
 
 ### B. Documentations for readers
-1. [Freecodecamp documents course](https://www.freecodecamp.org/news/learn-javascript-full-course/)
-
-Or 
 
 1. [The Odin Project course](https://www.theodinproject.com/courses/javascript)
 
 ### Framework
 Javascript is a wide language which has the widest community of developers, that implies that it has as a lot of frameworks, and libraries. So, to know what is good you need to learn its basics first of all, and if you love to go on with it, it gives you a lot of possibilities, you can work on desktop applications, mobile applications, web applications and robotics as well. So before jumping some frameworks, since this path is for beginners, you should first finish the basics, and the path will be updated depending on the needs.
+
+# CLICK HERE FOR THE MOST DETAILED Javascript for UI road map for an absolute beginner](https://github.com/nezago/nezago-guidelines/wiki/Javascript-for-UI-road-map-for-an-absolute-beginner)
+
+*Hppy coding!*
